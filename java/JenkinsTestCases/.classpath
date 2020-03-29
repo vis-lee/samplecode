@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RCManager_SampleCode"/>
+	<classpathentry kind="lib" path="/RCManager_SampleCode/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/RCManager_SampleCode/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/RCManager_SampleCode/lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
